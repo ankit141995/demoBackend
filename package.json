@@ -1,0 +1,27 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "backend for practice",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.23.0",
+    "body-parser": "^1.19.0",
+    "cookie-parser": "^1.4.6",
+    "cors": "^2.8.5",
+    "csv-parser": "^3.0.0",
+    "express": "^4.17.1",
+    "google-spreadsheet": "^3.2.0",
+    "googleapis": "^92.0.0",
+    "jsonwebtoken": "^8.5.1",
+    "nodemon": "^2.0.14",
+    "qrcode-terminal": "^0.12.0",
+    "random-words": "^1.1.1",
+    "whatsapp-web.js": "^1.15.7",
+    "xlsx": "^0.17.3"
+  }
+}

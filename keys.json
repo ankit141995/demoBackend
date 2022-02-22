@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "quantum-gearbox-335208",
+  "private_key_id": "9bae4fcdbeb1a258e5257a2fc4ca3d5fd735cc65",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDorFVpSfU7eRNh\ndydhCn8ceQDhWS8oiQyiVufC/9ounABTcqRYE/BPqA4fY1OBc9bNW6qtRwquX8lb\nQ+35Hz4qQbkxdt9/U9Ql87XS5ofKd94qm//llx4CIxfmEZOV1aLBxTatPpaECB4k\nSVbMY3hsV4Z96VN5p+tZsjjZM40ptHcBcVz6sXRjN5tdcMt1q5sFLvb6QVQCZgBs\nkZG9zwhNDqIwlBGBlf2HI/1h3/7jUGKmGvgbeq6xd2dGxpLI+rwFsN2Q8u6ehDfl\nsWBlgDOWwWvK60Mg74pnBocmQiK4pQt7Zze9Ud2SU22LshVicDD+IWxaUsGhWNq2\n8HEnrHDbAgMBAAECggEAEeGAlN1aq83jt+dMzu/cEeeYsjjE34QcxPMRz5ITBeb2\nPXN/fsdVfgGnyDC9b6Lj3JdRWAywHPN+iXWAedc1U1EGtu7wQRxDnwEKNaGCyQQK\nPlMLyOyioT5qLUOniGnJHsQVrh2zuoTXMCm0snNog0b8rnt6b0yA0T1ZkhOcoxo2\nUaC2Lz937cI0mEP3t0u3sPaMQUlJpQpyAPrtBbp3q1AeWqejP3a2g6M96anKHXsS\nK+Zb1Jye2H3BPbQlGBdpQMfl6iAE3AzGGE+TD8O+m0I7U7MfhJbCY/ChCJStASBK\nBE31kMN8QmX7ygLUKAjxDUBqyG/CWBNrfzpOrdVPFQKBgQD2IfyoMhMwgYScW2UH\ntySa0nKBMWxSHzG3kvD8QHh49nFqlWaQyug98vrSIRe3CTxSXvtPR9VqAYjNYdGj\nxl5E5qxq8bLAQ5gnL4O9UmMQ21x4iGJLO3prxlW2Va8xJXauriOMWu8ZLfhLgFXC\n4sEHloRuEmfGBatuK14diKtKnQKBgQDyADat0niki/goB0c1w/6tngyhtYpRV4WO\ny2YUZtJIZGzLTRraf238DCEpLIRIZbIvSPO0xeYaUMzwyd7o2Q7qIyb54HE01RUt\ntIsKrBfoJsdZyQ5vIVhm/3xWDVrS/GhTXkfRkimVWxE+Wzt6bozFhBq+CmMnVFNZ\n9a/c7amz1wKBgC8bXB7YzqFm+HlwaIqse54CDxY43lFtVPeccPDmaehEynoqs+Gc\nZAyPN4AGA2LtqpTdRt3qkqbiOkuMoDHnIl2vhGpHbf2sMi+1wVH3tawhP7Z169IY\nRRrhb8Ag8BHI6MkP3Q/cy4wXJ0FUA5X0DhukrB3g+emFZkUEmdOvN5FlAoGAMbpf\nggp85fspLDiKpn6258BRgi1G1f4xIK2lNU4Hqf6Q6JnYicujsyZe7hIKwMG9AsBv\n69a6uO+fnV8uIhTwXqaIjNJVEPE0X+b4p2HDq93EGywYfjeQ7eFUEG7AGhjp6y+1\nfFgXmWxUN8cRitAKt0+1GxYRV/SZCCRXVgO0WpMCgYEA01w0siNDJRwRMWORNRWL\nJgm4FxS8gH0xioNMrW8UjkGU3c2xu2unSp/Lb5UhUC6Avn+QWrwNtK4rf/uCZ5q7\nKAeektmWIdFmYQTytsAyWbsIn1qIUY/VFCh1+/5l/sqCKIj6sQsvtF8SqKci2rjl\nrNPKRUIQNmjvtH37llrWBwQ=\n-----END PRIVATE KEY-----\n",
+  "client_email": "googlesheets@quantum-gearbox-335208.iam.gserviceaccount.com",
+  "client_id": "112345215760119949578",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/googlesheets%40quantum-gearbox-335208.iam.gserviceaccount.com"
+}
